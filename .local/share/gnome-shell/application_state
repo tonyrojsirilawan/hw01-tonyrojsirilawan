@@ -1,8 +1,10 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="98" last-seen="1549044683"/>
-    <application id="org.gnome.Software.desktop" open-window-count="1" score="12" last-seen="1549044476"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="1" last-seen="1549046134"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="298" last-seen="1549046103"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="10" last-seen="1549046216"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="12" last-seen="1549046104"/>
     <application id="gnome-initial-setup.desktop" open-window-count="0" score="4" last-seen="1549042961"/>
     <application id="update-manager.desktop" open-window-count="0" score="4" last-seen="1549043087"/>
   </context>
